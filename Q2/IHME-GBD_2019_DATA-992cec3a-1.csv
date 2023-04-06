@@ -1,0 +1,121 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,0.11131431191320124,0.12192529593352226,0.10082074902611614
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,0.11165171310261876,0.1222652668659272,0.10116234259191034
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,0.11209927931228952,0.12288885000050188,0.10153954445159388
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,0.11246276523405092,0.12341914033649255,0.10190678320872086
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,0.11272918478100091,0.12371211421679137,0.10210681827512955
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,0.1130030279218976,0.12404581345472847,0.1023921528474642
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,0.11332643305612437,0.12444751788635922,0.10267159809210544
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,0.11369294050072251,0.12458926546363218,0.10283500106056481
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,0.11399903516790541,0.12484463188187578,0.10314067659998044
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,0.11423482491944507,0.12510307382076005,0.10330684550853463
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,0.1143971541054952,0.12513654105384553,0.10335937328478109
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,0.11451661402847255,0.1253844415407012,0.10351868931797571
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,0.11464610467810124,0.12553915947985236,0.10353734975483855
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,0.11471179495152142,0.12567691741542242,0.10361880732060888
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,0.11475703409471902,0.12578608406388778,0.10372931947631839
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,0.11478549218009734,0.1257592278978818,0.10378565856699361
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,0.11474464307645162,0.12579064940700643,0.10383710679973333
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,0.11465227379655064,0.12563562756785412,0.1037002888911461
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,0.1145385278989288,0.12548963671354144,0.10373376239997695
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,0.11444105430263701,0.12538327323599574,0.10383028288170629
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,0.11440320129621259,0.1252643341512432,0.10383742234004936
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,0.11440681433112129,0.1253188750842499,0.10387324146702169
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,0.11443797050254166,0.1251698634746358,0.10390643077086892
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,0.11449086344592664,0.12509989447747286,0.10396431721775189
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,0.11457755397660083,0.1252120491131742,0.10420756312967536
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,0.11472642494629758,0.12530053968492122,0.10426607166481182
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,0.11496490168928218,0.12548829652904875,0.10447313632693572
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,0.1152543410042298,0.12593876375104843,0.10470463316677016
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,0.115570931930764,0.12614905920786998,0.10503234785647664
+5,Prevalence,44578,World Bank Low Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.11591253206989655,0.1266201419661209,0.10537116707178401
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,0.12365401146364952,0.1352486501515043,0.11071800913475921
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,0.12422250305054269,0.13583475757237207,0.11132385228037008
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,0.12472673413301281,0.1364229764075009,0.11183891974851219
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,0.12514704090349268,0.13691019415380787,0.11228672791352379
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,0.12545940871843553,0.137211549291414,0.11273442208500974
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,0.12562858423227852,0.137330004780891,0.11282205660406536
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,0.1255948306739782,0.13720089217884804,0.11285257959888825
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,0.12538721556046914,0.13687604882372123,0.11258696673602613
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,0.12512561520506396,0.13645760177831176,0.11241151556161048
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,0.12493782219670518,0.1362252511814066,0.11221161514613628
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,0.12494993774726819,0.13601376779605753,0.11230616480877342
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,0.12520323270420894,0.1362326808992781,0.11254357712122887
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,0.12558936689733385,0.13668240202496917,0.11290802283846497
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,0.12602908330184937,0.13722871303681947,0.11351557281896967
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,0.1264231292975385,0.13749640900078586,0.11403282344382704
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,0.12667983425718554,0.13773205707148095,0.11426853555977301
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,0.12660095239241886,0.13767694497746674,0.1142933969392455
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,0.12621719792577543,0.13723504348298268,0.11402584020451081
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,0.12571887904551576,0.13657815823885047,0.11359559480706898
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,0.1253055612815333,0.13613581609015,0.11332764513890259
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,0.12516734899571685,0.1359834469876561,0.11331510408944882
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,0.12528000689450478,0.13589049262190867,0.11354537102091972
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,0.1254630284017426,0.13607235981593352,0.11386934781351539
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,0.1256841212349501,0.1364073042869041,0.11419398282791121
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,0.12591739260724355,0.13663816523246752,0.11452146103011097
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,0.12613501254394482,0.13693347013298468,0.11488444713466468
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,0.12631636246399722,0.13688854288964725,0.11504834959839973
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,0.12651764887254474,0.13698356439271311,0.11513321180730257
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,0.12665179899111725,0.137204479672566,0.1154509842741404
+5,Prevalence,44577,World Bank Lower Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12666965350457923,0.1373300566000882,0.11553662530556721
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,0.1228537095051931,0.1334786532705364,0.1135087189505413
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,0.12379271239077695,0.13447773423899287,0.11429892208950546
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,0.12467814461630439,0.13536056601880472,0.11514970168696465
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,0.125524597213118,0.13623153856034326,0.11597678042363245
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,0.1262731727288951,0.136918645642049,0.1167052154469333
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,0.1268814934621578,0.1374826507329526,0.11729704944050523
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,0.12751474756113548,0.13815584731323713,0.11793215961354356
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,0.1282995363876511,0.13898042354258117,0.11871767402833311
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,0.12913542619826154,0.1397992587736519,0.11955113197229751
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,0.12991462489626737,0.14058447744057587,0.12031041135308582
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,0.13050327918803112,0.14113129293458282,0.12100450207293129
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,0.1308564895248241,0.14120064405972876,0.12145325607923407
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,0.13103703890430693,0.14137291495049806,0.12170573579029756
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,0.13109518383221452,0.14114682291335,0.12182356998283879
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,0.13108542252883057,0.1411202771866589,0.12180816203993944
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,0.13107098772521925,0.14088588823647608,0.12182186809166076
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,0.1309782674912409,0.14065246587790328,0.12174477666557774
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,0.13073352311023517,0.1403341228963254,0.1214407362632794
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,0.1304281360498282,0.13996083503088103,0.1211944877381447
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,0.13015265478791083,0.1396988651917786,0.12089391931428176
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,0.12999771684526065,0.13941170061513863,0.12069853535374153
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,0.12982362592422264,0.13921142773371425,0.12059457243315568
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,0.12947850230661742,0.13888029931644938,0.12038428118475569
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,0.12909974006579672,0.13838045571377486,0.12004818558187874
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,0.12882675868699484,0.13812279718276835,0.11982614537767543
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,0.12877446108835816,0.13807078138433423,0.11978111149418971
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,0.12919028700178906,0.138352594500646,0.12017572767389541
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,0.12964147480799054,0.13871377681734307,0.120464316545906
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,0.1296738187584468,0.1387996287455926,0.12063543086680772
+5,Prevalence,44576,World Bank Upper Middle Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.12947303311673852,0.13855592447288212,0.12033565577654111
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,0.147675629123196,0.15877469433162436,0.13763149214727752
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,0.14795696076118145,0.15891912005023565,0.13801034166681952
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,0.14826410332913423,0.15905288817426544,0.13843470652698797
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,0.14858771789772757,0.15922189357145297,0.1389449835126617
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,0.14891469310151165,0.1595565369505551,0.13946020134862527
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,0.14921996470475585,0.159699452922619,0.13978052708441285
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,0.14984089323957353,0.16039031431927867,0.14053408046877203
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,0.15090467334150326,0.16130964081260013,0.14155812179914293
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,0.15209715397675633,0.1625126849755699,0.14275447440265224
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,0.15311042912505102,0.16350059936891492,0.14388142980056287
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,0.15359422223661673,0.16389174447051424,0.1443436978110813
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,0.15357086160306627,0.16390357430657337,0.1442593878107832
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,0.15331028567105723,0.1637349490969915,0.1439743659645128
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,0.15292436849269325,0.1632436012896543,0.14359684498564834
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,0.15254955838029066,0.1628386532923413,0.14321865222147875
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,0.152280349944965,0.16257160029962192,0.14284795087065696
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,0.1522571107143528,0.16279117782612762,0.14272557054221865
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,0.15240227128270278,0.16288079507647024,0.14280677915049889
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,0.15259936624816767,0.16310174146886516,0.1429141631163607
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,0.15273018924454437,0.16320197583871857,0.1429904064622309
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,0.15265729578512555,0.16319911258514677,0.14284128130150758
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,0.15228516972530035,0.16283066961265324,0.14248700326071953
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,0.15169296819294723,0.1623515736671925,0.14197105900599996
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,0.151039719501748,0.16157132713649294,0.14140292804305682
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,0.15048404128898488,0.16108829548361592,0.14088736658535841
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,0.1501627841891093,0.16089940150167326,0.14057837470471965
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,0.14992022909623962,0.16067309348158268,0.14026911378964088
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,0.14974212917854574,0.16055275757916038,0.13988311095499567
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,0.15013128105926246,0.16122817076486606,0.1401700651678034
+5,Prevalence,44575,World Bank High Income,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.15106368256334696,0.16210885129698122,0.1409039588195316
