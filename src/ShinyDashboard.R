@@ -1,8 +1,8 @@
-# Get the current file's directory
-current_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-
-# Set the working directory to the current directory
-setwd(current_dir)
+# # Get the current file's directory
+# current_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+# 
+# # Set the working directory to the current directory
+# setwd(current_dir)
 
 # Load required libraries
 library(shiny)
@@ -58,7 +58,7 @@ ui <- fluidPage(
         ),
         column(
           width = 8,
-          plotlyOutput("plot1")
+          plotlyOutput("plot1", height="80vh")
         )
       )
     ),
@@ -71,12 +71,11 @@ ui <- fluidPage(
           width = 4,
           h3("2. What is the relationship between income level and prevalence of mental disorders globally over time?"),
           p("This plot shows the trend in the prevalence of mental health disorders over time, split by income levels as classified by the World Bank (Low, Lower Middle, Upper Middle, High)."),
-          p("It appears that income level and the prevalence of mental disorders are directly related, with a person being more likely to have mental issues the more income they have. It could also be attributed to the simple fact that richer people have more access to healthcare, and are thus diagnosed at higher rates compared to people with lower income."),
-          p("You can click on individual income groups to filter them in or out to get a clearer picture.")
+          p("It appears that income level and the prevalence of mental disorders are directly related, with a person being more likely to have mental issues the more income they have. It could also be attributed to the simple fact that richer people have more access to healthcare, and are thus diagnosed at higher rates compared to people with lower income.")
         ),
         column(
           width = 8,
-          plotlyOutput("plot2")
+          plotlyOutput("plot2", height="80vh")
         )
       )
     ),
@@ -93,7 +92,7 @@ ui <- fluidPage(
         ),
         column(
           width = 8,
-          plotlyOutput("plot3")
+          plotlyOutput("plot3", height="80vh")
         )
       )
     ),
@@ -111,7 +110,7 @@ ui <- fluidPage(
         ),
         column(
           width = 8,
-          plotlyOutput("plot4")
+          plotlyOutput("plot4", height="80vh")
         )
       )
     )

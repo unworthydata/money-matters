@@ -1,0 +1,14 @@
+name: money_matters
+title: money_matters
+username:
+account: omarismail
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8803217
+bundleId: 7068494
+url: https://omarismail.shinyapps.io/money_matters/
+when: 1681081421.83429
+lastSyncTime: 1681081421.8343
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: q1_test.R|test.R|TESTDASHBOARD.R

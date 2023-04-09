@@ -1,8 +1,8 @@
-# Get the current file's directory
-current_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-
-# Set the working directory to the current directory
-setwd(current_dir)
+# # Get the current file's directory
+# current_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+# 
+# # Set the working directory to the current directory
+# setwd(current_dir)
 
 library(plotly)
 library(viridis)
