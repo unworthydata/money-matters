@@ -25,7 +25,7 @@ data$income <- factor(data$income, levels = income_order)
 # Select columns to keep
 data <- data %>% select(income, cause, year, val)
 
-my_palette <- viridis(11)
+my_palette <- turbo(11)
 
 # Sort data by val in descending order
 data <- data %>% arrange(desc(val))
@@ -36,12 +36,19 @@ data$cause <- factor(data$cause, levels = unique(data$cause))
 # Create a clustered stacked bar chart with animation
 plot3 <- data %>% 
   plot_ly(x = ~income, y = ~val, color = ~cause, colors = my_palette, type = "bar", 
-          split = ~cause, groupnorm = "percent", 
-          animation_frame = ~year) %>%
-  layout(title = "Prevalence of Mental Disorders by Income Level",
+          split = ~cause, groupnorm = "percent") %>%
+  layout(title = list(text = "Prevalence of Global Mental Disorders by Income Level",
+                      font = list(size = 24)),
          yaxis = list(title = "Prevalence (%)"),
          xaxis = list(title = "Income Level"),
-         barmode = "stack")
+         font=list(family = "Jetbrains Mono, Monospace",
+                   color="#fff"),
+         barmode = "stack",
+         paper_bgcolor="#000",
+         plot_bgcolor="#000",
+         yanchor="top",
+         margin=50)
 
+plot3
 # Show plot
 return(plot3)

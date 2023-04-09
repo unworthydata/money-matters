@@ -31,10 +31,22 @@ ui <- fluidPage(
       h5, h1, h3, p {
         font-family: 'JetBrains Mono', monospace;
       }
+      
+      .plotly {
+        margin: 5dp;
+      }
 
       /* Set width of the columns */
       .left-column, .right-column {
         padding: 10dp;
+      }
+
+      .left-column {
+        width: 40%;
+      }
+
+      .right-column {
+        width: 60%;
       }
     "))
   ),
@@ -50,15 +62,15 @@ ui <- fluidPage(
       "Question 1",
       fluidRow(
         column(
-          width = 4,
+          width = 5,
+          class = "left-column",
           h3("1. What is the prevalence of mental disorders globally over time?"),
-          p("This choropleth plot shows the rates of mental disorder prevalence over time, with a play button to animate these changes. The values do not change much, so changes may be hard to see. There is also a slider so you can select an individual year."),
-          p("One observation that stands out is the stark difference between Iran and all of the other countries in the map. They have much higher rates of mental disorders. Australia is a close second, sticking out almost as much."),
-          p("A comforting fact is that mental disorder rates have not risen, and have actually fallen in some countries, even if it seems like everyone is depressed these days. One hypothesis is that it could be due to the fact that social media blows things out of proportion, and it has become somewhat \"cool\" to claim to be battling mental issues.")
+          p("paragraph")
         ),
         column(
-          width = 8,
-          plotlyOutput("plot1")
+          width = 7,
+          class = "right-column",
+          plotlyOutput("plot1", height = "200%")
         )
       )
     ),
@@ -68,14 +80,14 @@ ui <- fluidPage(
       "Question 2",
       fluidRow(
         column(
-          width = 4,
+          width = 5,
+          class = "left-column",
           h3("2. What is the relationship between income level and prevalence of mental disorders globally over time?"),
-          p("This plot shows the trend in the prevalence of mental health disorders over time, split by income levels as classified by the World Bank (Low, Lower Middle, Upper Middle, High)."),
-          p("It appears that income level and the prevalence of mental disorders are directly related, with a person being more likely to have mental issues the more income they have. It could also be attributed to the simple fact that richer people have more access to healthcare, and are thus diagnosed at higher rates compared to people with lower income."),
-          p("You can click on individual income groups to filter them in or out to get a clearer picture.")
+          p("paragraph")
         ),
         column(
-          width = 8,
+          width = 7,
+          class = "right-column",
           plotlyOutput("plot2")
         )
       )
@@ -86,13 +98,14 @@ ui <- fluidPage(
       "Question 3",
       fluidRow(
         column(
-          width = 4,
+          width = 5,
+          class = "left-column",
           h3("3. How does the prevalence of specific mental disorders, such as depression or anxiety, differ by income level?"),
-          p("This stacked bar graph shows the prevalence of mental disorders, grouped by World Bank income levels, and split by specific mental disorders. The bars are of different heights because the different groups see different levels of mental disorder prevalence."),
-          p("You can click on individual mental illnesses to filter them in or out and get a clearer picture.")
+          p("paragraph")
         ),
         column(
-          width = 8,
+          width = 7,
+          class = "right-column",
           plotlyOutput("plot3")
         )
       )
@@ -103,14 +116,14 @@ ui <- fluidPage(
       "Question 4",
       fluidRow(
         column(
-          width = 4,
+          width = 5,
+          class = "left-column",
           h3("4. What is the relative difference between income level and prevalence of mental disorders globally over time?"),
-          p("This stacked bar graph shows the prevalence of mental disorders, grouped by World Bank income levels, and split by specific mental disorders. This is similar to the previous graph, but it is normalized so we can see the relative differences in the prevalence of specific mental disorders across these income groups."),
-          p("A noticeable difference is seen in the rates of anxiety disorders, where the Lower Middle group seems to have the lowest rates of anxiety. The High income group has much higher rates of eating disorders and substance use disorders, probably because they have more disposable income to buy drugs of abuse."),
-          p("You can click on individual mental illnesses to filter them in or out and get a clearer picture.")
+          p("paragraph")
         ),
         column(
-          width = 8,
+          width = 7,
+          class = "right-column",
           plotlyOutput("plot4")
         )
       )
