@@ -4,6 +4,10 @@
 # # Set the working directory to the current directory
 # setwd(current_dir)
 
+dir.create('~/.fonts')
+file.copy("www/JetBrainsMono-VariableFont_wght.ttf", "~/.fonts")
+system('fc-cache -f ~/.fonts')
+
 # Load required libraries
 library(shiny)
 library(plotly)

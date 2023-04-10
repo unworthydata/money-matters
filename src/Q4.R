@@ -64,7 +64,7 @@ plot4 <- data %>%
   layout(
     title = list(text = "Relative Prevalence of Global Mental Disorders by Income Level",
                         font = list(size = 24)),
-    yaxis = list(title = "Prevalence (%)"),
+    yaxis = list(title = "Relative Prevalence"),
     xaxis = list(title = "Income Level"),
     barmode = "stack"
   ) %>%
